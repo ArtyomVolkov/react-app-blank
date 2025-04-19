@@ -14,9 +14,6 @@
 ## Start
 * `npm start` or `yarn start`
 
-## Tests
-* `npm run test` or `yarn test`
-
 ## Build
 * `npm run build` or `yarn build`
 
